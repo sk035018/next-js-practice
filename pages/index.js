@@ -14,7 +14,7 @@ export default function Home() {
         <h1 className={styles.title}>
           Learn{" "}
           <Link href="posts/first-post">
-            <a href="https://nextjs.org">First Post</a>
+            <a>First Post</a>
           </Link>
         </h1>
 
